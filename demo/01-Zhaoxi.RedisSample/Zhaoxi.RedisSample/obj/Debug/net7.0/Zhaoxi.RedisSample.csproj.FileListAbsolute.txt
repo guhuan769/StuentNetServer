@@ -1,0 +1,118 @@
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.Development.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.exe
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.deps.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.runtimeconfig.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.pdb
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.AspNetCore.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.Core.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.System.Text.Json.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.AssemblyReference.cache
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfoInputs.cache
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfo.cs
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.CoreCompileInputs.cache
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cs
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cache
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.Zhaoxi.RedisSample.Microsoft.AspNetCore.StaticWebAssets.props
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.build.Zhaoxi.RedisSample.props
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zhaoxi.RedisSample.props
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zhaoxi.RedisSample.props
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.pack.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.build.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.development.json
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\scopedcss\bundle\Zhaoxi.RedisSample.styles.css
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.CopyComplete
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\refint\Zhaoxi.RedisSample.dll
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.pdb
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.genruntimeconfig.cache
+E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\ref\Zhaoxi.RedisSample.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.Development.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.exe
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.deps.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.runtimeconfig.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.pdb
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.AspNetCore.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.Core.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.System.Text.Json.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.AssemblyReference.cache
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfoInputs.cache
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfo.cs
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.CoreCompileInputs.cache
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cs
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cache
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.build.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.development.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.Zhaoxi.RedisSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.build.Zhaoxi.RedisSample.props
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zhaoxi.RedisSample.props
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zhaoxi.RedisSample.props
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.pack.json
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\scopedcss\bundle\Zhaoxi.RedisSample.styles.css
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.R.90E0CBF9.Up2Date
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\refint\Zhaoxi.RedisSample.dll
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.pdb
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.genruntimeconfig.cache
+C:\baidunetdiskdownload\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\ref\Zhaoxi.RedisSample.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\appsettings.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.exe
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.deps.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.runtimeconfig.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Zhaoxi.RedisSample.pdb
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.AspNetCore.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.Core.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\StackExchange.Redis.Extensions.System.Text.Json.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.AssemblyReference.cache
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfoInputs.cache
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.AssemblyInfo.cs
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.csproj.CoreCompileInputs.cache
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.sourcelink.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.Zhaoxi.RedisSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.build.Zhaoxi.RedisSample.props
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zhaoxi.RedisSample.props
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zhaoxi.RedisSample.props
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\scopedcss\bundle\Zhaoxi.RedisSample.styles.css
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.R.90E0CBF9.Up2Date
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\refint\Zhaoxi.RedisSample.dll
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.pdb
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\Zhaoxi.RedisSample.genruntimeconfig.cache
+C:\Users\ElonSnyder\Desktop\code\StuentNetServer\demo\01-Zhaoxi.RedisSample\Zhaoxi.RedisSample\obj\Debug\net7.0\ref\Zhaoxi.RedisSample.dll

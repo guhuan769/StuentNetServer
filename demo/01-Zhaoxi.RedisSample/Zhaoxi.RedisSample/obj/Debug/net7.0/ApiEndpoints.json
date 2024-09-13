@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Zhaoxi.RedisSample.Controllers.HelloController",
+    "Method": "Post",
+    "RelativePath": "api/Hello",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.RedisSample.Controllers.HelloController",
+    "Method": "Get",
+    "RelativePath": "api/Hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.RedisSample.Controllers.HelloController",
+    "Method": "Delete",
+    "RelativePath": "api/Hello",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
