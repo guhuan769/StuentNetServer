@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zhaoxi.RedisSample.Blog
+build_property.RootNamespace = Zhaoxi.RedisSample.Blog
+build_property.ProjectDir = E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\02-Zhaoxi.RedisSample\Zhaoxi.RedisSample.Blog\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\教案\架构班\朝夕-第03期\01-.NET7 跨平台\02-分布式中间件\01-Redis（4）\课件\02-Zhaoxi.RedisSample\Zhaoxi.RedisSample.Blog
+build_property._RazorSourceGeneratorDebug = 

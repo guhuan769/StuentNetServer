@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\教案\\架构班\\朝夕-第03期\\01-.NET7 跨平台\\02-分布式中间件\\01-Redis（4）\\课件\\02-Zhaoxi.RedisSample\\Zhaoxi.RedisSample.Blog\\Zhaoxi.RedisSample.Blog.csproj": {}
+  },
+  "projects": {
+    "E:\\教案\\架构班\\朝夕-第03期\\01-.NET7 跨平台\\02-分布式中间件\\01-Redis（4）\\课件\\02-Zhaoxi.RedisSample\\Zhaoxi.RedisSample.Blog\\Zhaoxi.RedisSample.Blog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\教案\\架构班\\朝夕-第03期\\01-.NET7 跨平台\\02-分布式中间件\\01-Redis（4）\\课件\\02-Zhaoxi.RedisSample\\Zhaoxi.RedisSample.Blog\\Zhaoxi.RedisSample.Blog.csproj",
+        "projectName": "Zhaoxi.RedisSample.Blog",
+        "projectPath": "E:\\教案\\架构班\\朝夕-第03期\\01-.NET7 跨平台\\02-分布式中间件\\01-Redis（4）\\课件\\02-Zhaoxi.RedisSample\\Zhaoxi.RedisSample.Blog\\Zhaoxi.RedisSample.Blog.csproj",
+        "packagesPath": "C:\\Users\\buker\\.nuget\\packages\\",
+        "outputPath": "E:\\教案\\架构班\\朝夕-第03期\\01-.NET7 跨平台\\02-分布式中间件\\01-Redis（4）\\课件\\02-Zhaoxi.RedisSample\\Zhaoxi.RedisSample.Blog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "StackExchange.Redis.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "StackExchange.Redis.Extensions.System.Text.Json": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
